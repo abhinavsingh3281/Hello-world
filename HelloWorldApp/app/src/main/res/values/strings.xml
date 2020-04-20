@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">HelloWorldApp</string>
+    <string name="button">Button</string>
+    <string name="i_am_an_android_developer">I am an Android Developer!</string>
+    <string name="name">Name</string>
+    <string name="please_enter_your_name">Please enter your name...</string>
+    <string name="phone_number">PHONE NUMBER</string>
+    <string name="welcome_eo_the_complete_android_p_app_development_course">Welcome eo the complete Android P App development Course!</string>
+    <string name="android_app_development_is_awesome">Android app development is awesome</string>
+
+    <string name="let_s_get_started">LET\'S GET STARTED!</string>
+    <string name="java_programming_is_fantastic">Java Programming is Fantastic</string>
+    <string name="what_do_you_think">WHAT DO YOU THINK?</string>
+    <string name="learn_java">LEARN JAVA</string>
+
+</resources>
